@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>announcement-dismiss</title>
+    <g id="License-Notifications" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="licensed-community" transform="translate(-230, -2926)">
+            <g id="announcement-dismiss" transform="translate(230, 2926)">
+                <circle id="Oval" fill="#1E293B" cx="10" cy="10" r="10"></circle>
+                <g id="Group-11" transform="translate(10, 10) rotate(-315) translate(-10, -10)translate(5, 5)" fill="#334155" stroke="#979797" stroke-width="0.93">
+                    <path d="M5.51975377,0.465 L5.5189053,4.6309228 L9.535,4.63158948 L9.535,5.36829474 L5.5189053,5.36796139 L5.51975379,9.535 L4.63159228,9.535 L4.63092561,5.3679628 L0.465,5.36829613 L0.465,4.63159226 L4.63092561,4.63092561 L4.63159226,0.465 L5.51975377,0.465 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

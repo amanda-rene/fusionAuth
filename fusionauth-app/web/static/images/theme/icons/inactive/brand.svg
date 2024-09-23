@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  - Copyright (c) 2024, FusionAuth, All Rights Reserved
+  -->
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>brand</title>
+    <g id="brand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#94A3B8" x="3" y="3" width="25" height="25" rx="4"></rect>
+        <g id="Group-2" transform="translate(13, 7)" fill="#FFFFFF">
+            <rect id="Rectangle" x="0" y="7" width="5" height="11" rx="2"></rect>
+            <circle id="Oval" cx="2.5" cy="2.5" r="2.5"></circle>
+        </g>
+    </g>
+</svg>
